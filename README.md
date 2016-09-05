@@ -1,5 +1,5 @@
 # pangram-
-A Project I made for Programming languages class. 
+A Project I made for Programming languages class at UB in summer 2016. 
 
 
 Write a program in the following languages: Python and SML, consisting of a function that accepts two strings. Each string is the name of a file. The first is the name of an input file and the second is the name of an output file. Name the function ‘hw1’(Note that your program can also make use of other helper functions – just make sure function ‘hw1’ takes as arguments the input file and output file that are specified in the program).  The implementation in each language is worth 20 points.
